@@ -1,6 +1,17 @@
+/*
+* Filename      Makefile
+* Date          May 05, 2019
+* Author        Joseph Harker
+* Email         jch170430@utdallas.edu
+* Course        CS3377.501
+* Version       1.0
+* Copyright 2019, All Rights Reserved
+*/
+
 #include <iostream>
 #include <fstream>
 #include "cdk.h"
+#include "stdint.h"
 
 using namespace std;
 
