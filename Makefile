@@ -6,7 +6,7 @@ LDLIBS = -lcdk -lcurses
 
 EXECFILE = prog6
 
-OBJS = example1.o
+OBJS = main.o
 
 all: $(EXECFILE)
 
